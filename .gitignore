@@ -1,0 +1,9 @@
+*~
+CMakeCache.txt
+CMakeFiles/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Makefile
+cmake_install.cmake
+h264_v4l2_rtspserver
+libv4l2wrapper.a
